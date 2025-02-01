@@ -117,7 +117,7 @@ Riwayat Chat: {chat_history}
 Pertanyaan: {question}
 
 Instruksi khusus:
-- Jika informasi tidak ditemukan dalam konteks, katakan "Mohon maaf, saya tidak memiliki informasi tersebut dalam dokumen yang tersedia."
+- Selalu berikan jawaban terbaik yang dapat kamu berikan
 - Berikan jawaban yang ringkas namun komprehensif
 - Jika ada istilah teknis, berikan penjelasan singkatnya
 
